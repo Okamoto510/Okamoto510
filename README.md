@@ -29,7 +29,6 @@
 - **React**
 - **TypeScript**
 - **Tailwind CSS**
-- **Vercel**（デプロイ予定）
 
 ---
 
